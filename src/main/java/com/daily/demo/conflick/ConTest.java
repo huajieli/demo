@@ -16,7 +16,7 @@ public class ConTest {
 	public static void main(String[] args) {
 		System.out.println("daily test");
 		System.out.println("1_daily test");
-		System.out.println("1_daily test");
+		System.out.println("1_daily test22");
 	}
 
 }
