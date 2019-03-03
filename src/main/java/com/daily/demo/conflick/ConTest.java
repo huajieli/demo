@@ -18,6 +18,7 @@ public class ConTest {
 		System.out.println("1_daily test");
 		System.out.println("1_daily test");
 		System.out.println("1_daily test22");
+		System.out.println("1_daily test22");
 	}
 
 }
