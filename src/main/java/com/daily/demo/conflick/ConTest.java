@@ -13,6 +13,7 @@ package com.daily.demo.conflick;
  *************************************************************************
  */
 public class ConTest {
+	//fetch--> 将自己的修改提交到本地--> merge --> 将推送到本地的修改push到远程
 	public static void main(String[] args) {
 		System.out.println("daily test");
 		System.out.println("1_daily test");
