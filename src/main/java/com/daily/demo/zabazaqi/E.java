@@ -10,7 +10,6 @@ class E {
 		Integer i = new Integer(2);
 		String str = "qqq";
 		System.out.println(i);
-		System.out.println(str);
 	
 	
 }
