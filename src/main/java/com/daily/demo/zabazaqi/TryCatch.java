@@ -23,4 +23,15 @@ import org.junit.Test;
 			 return 0;
 			}
 	}
+	
+	@Test
+	public void test() {
+		String str = "helloli";
+		String str1="hello";
+		String str2="li";
+		String str3=str1+str2;
+		//为啥结果是false;
+		System.out.println("str==str3:"+str==str3);
+		System.out.println("str==str3:"+str==str3.intern());
+	}
 }
